@@ -20,6 +20,9 @@ This project is part of my PhD research in computational mechanics, focusing on 
 - Automated visualization workflow
 - Improved documentation for students and researchers
 
+## AI Integration Plan
+This project will integrate AI tools to assist code understanding, debugging, and automated visualization workflows for students and researchers.
+
 ## Demo Result
 
 ![BEM Result](圖片1.jpg)
