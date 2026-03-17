@@ -20,5 +20,9 @@ This project is part of my PhD research in computational mechanics, focusing on 
 - Automated visualization workflow
 - Improved documentation for students and researchers
 
+## Demo Result
+
+![BEM Result](圖片1.jpg)
+
 ## Author
 Yen-Ting Chou
